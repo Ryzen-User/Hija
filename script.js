@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 var s = document.querySelector(".muse");
 
 s.addEventListener("click",function(){
-    var Audiobe = new Audio("taylor.mp3");
+    var Audiobe = new Audio("Whenimetyou.mp3");
     Audiobe.play();
     s.style.display = "none";
     gif.src =
